@@ -1,6 +1,6 @@
 # Name: Jason Marsh
 # Date: 5/31/2021
-# Description: Implementation of the game Kuba for the final project of CS162. The game is played by two players
+# Description: Implementation of the game Kuba. The game is played by two players
 # who take alternating turns pushing marbles forwards, backwards, left, or right. When a marble is pushed, it moves
 # one space. If there is a marble currently occupying that next space, that marble also moves a space in the same
 # direction, and so on until an empty space is reached. If a marble gets pushed off the edge, it is removed from the
